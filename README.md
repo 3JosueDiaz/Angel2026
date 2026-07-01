@@ -1,2 +1,3 @@
-# Angel2026
-Esta es mi primera experiencia utilizando GITHUB para subir mis proyectos.
+# __Este es Josué Díaz__
++ 🌎El salvador
++ 🌐Estudiante de programación
