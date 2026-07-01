@@ -2,8 +2,8 @@
 + 🌎El salvador
 + 🌐Estudiante de programación
 
-###Tecnología
+##Tecnología
 
-###Actualmente
+##Actualmente
 
-###Proyectos
+##Proyectos
