@@ -1,6 +1,6 @@
 # __Este es Josué Díaz__
-+ 🌎El salvador
-+ 🌐Estudiante de programación
++ 🌎El salvador                        + 👨‍💻Novato
++ 🌐Estudiante de programación         + 🤩Entusiasmado
 
 ### Tecnología
 
