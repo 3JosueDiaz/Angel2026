@@ -3,9 +3,9 @@
 + 🌐Estudiante de programación
 + 👨‍💻Novato
 + 🤩Entusiasmado
-  
+ 
 ### Tecnología
-
+HTML  CSS  
 ### Actualmente
 
 ### Proyectos
